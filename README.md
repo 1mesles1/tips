@@ -1,5 +1,9 @@
 # tips 📝 (v.0.0.1)
 
+⚠️ Note: This project is a work in progress and will be continuously updated over time.
+
+⚠️ Примечание: Проект находится в стадии активной разработки и будет дорабатываться со временем.
+
 ## Screenshots
 [<img src="screenshots/01.png" width="400">](screenshots/01.png) [<img src="screenshots/02.png" width="400">](screenshots/02.png)
 [<img src="screenshots/03.png" width="400">](screenshots/03.png) [<img src="screenshots/04.png" width="400">](screenshots/04.png)
