@@ -1,11 +1,11 @@
-# Maintainer: measles <your-email@example.com>
+# Maintainer: measles <denkori80@gmail.com>
 pkgname=tips-git
 pkgver=0.0.1
 pkgrel=1
 pkgdesc="A modular Rust TUI knowledge base and snippet manager for the Linux terminal (TTY)"
 arch=('x86_64' 'aarch64')
-url="https://github.com"
-license=('MIT')
+url="https://github.com/1mesles1/tips"
+license=('GPL3')
 depends=('gcc-libs')
 makedepends=('rust' 'cargo' 'git')
 provides=('tips')
