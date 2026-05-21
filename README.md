@@ -40,7 +40,7 @@ Make sure you have Rust (`cargo`) installed.
 
 ```bash
 # Clone the repository
-git clone https://github.com
+git clone https://github.com/1mesles1/tips
 cd tips
 
 # Run in development mode
@@ -85,7 +85,7 @@ The optimized binary will be available at `./target/release/tips`.
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com
+git clone https://github.com/1mesles1/tips
 cd tips
 
 # Запуск в режиме разработки
